@@ -1,5 +1,10 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "Personal": {
+    "Name": { "string": {} },
+    "City": { "string": {} }
+  },
+   "Official": {
+    "Designation": { "string": {} },
+    "OfficeLocation": { "string": {} }
   }
 }
